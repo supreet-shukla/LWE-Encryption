@@ -3,7 +3,7 @@
 
 # LWE Secure Communication over Sockets
 
-This project demonstrates a Learning With Errors (LWE) encryption** scheme for secure communication between a client and a server using Python sockets. The client encrypts a message (0 or 1), sends it to the server, and the server decrypts it.
+This project demonstrates a Learning With Errors (LWE) encryption scheme for secure communication between a client and a server using Python sockets. The client encrypts a message (0 or 1), sends it to the server, and the server decrypts it.
 
 # Features
 - LWE-based Encryption: Uses the LWE problem for secure communication.
