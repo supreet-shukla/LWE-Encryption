@@ -25,7 +25,7 @@ pip install numpy
 
 -------------------------------------------
 
-How to run this: 
+# How to run this: 
 
 Step 2: Run the Server
 Open a terminal and start the server:
